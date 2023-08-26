@@ -1,0 +1,9 @@
+export enum COLORS {
+  PRIMARY = '#FFC700',
+  PRIMARY_LIGHT = '#FFD54F',
+  PRIMARY_DARK = '#FF9A00',
+  SECONDARY = '#000000',
+  WHITE = '#FFFFFF',
+  BLACK = '#000000',
+  RED = '#f36637',
+}
